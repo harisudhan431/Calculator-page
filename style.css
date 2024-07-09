@@ -1,0 +1,32 @@
+table{
+    border: solid 1px white;
+    margin-top: 150px;
+    margin-left: 550px;
+    background-color: aqua;
+}
+#button{
+ padding: 25px;
+ font-size: medium;
+ margin: 5px;
+ background-color: white;
+ color: black;
+ border: solid 1px white;
+}
+th{
+    color: white;
+    font-size: 25px;
+    /* padding-left: 55px; */  
+}
+#button1{
+    padding: 25px;
+    font-size: medium;
+    margin: 5px;
+    background-color: red;
+    color: white;
+    border: solid 1px white;
+}
+#result{
+    padding:25px;
+    margin: 5px;
+    border: solid 1px white;
+}
